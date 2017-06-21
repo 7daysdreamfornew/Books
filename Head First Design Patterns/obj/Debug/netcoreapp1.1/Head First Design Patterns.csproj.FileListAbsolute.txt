@@ -1,0 +1,8 @@
+/home/sejin/Git/Books/Head First Design Patterns/bin/Debug/netcoreapp1.1/Head First Design Patterns.deps.json
+/home/sejin/Git/Books/Head First Design Patterns/bin/Debug/netcoreapp1.1/Head First Design Patterns.runtimeconfig.json
+/home/sejin/Git/Books/Head First Design Patterns/bin/Debug/netcoreapp1.1/Head First Design Patterns.runtimeconfig.dev.json
+/home/sejin/Git/Books/Head First Design Patterns/bin/Debug/netcoreapp1.1/Head First Design Patterns.dll
+/home/sejin/Git/Books/Head First Design Patterns/bin/Debug/netcoreapp1.1/Head First Design Patterns.pdb
+/home/sejin/Git/Books/Head First Design Patterns/obj/Debug/netcoreapp1.1/Head First Design Patterns.AssemblyInfo.cs
+/home/sejin/Git/Books/Head First Design Patterns/obj/Debug/netcoreapp1.1/Head First Design Patterns.dll
+/home/sejin/Git/Books/Head First Design Patterns/obj/Debug/netcoreapp1.1/Head First Design Patterns.pdb
