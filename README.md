@@ -9,6 +9,4 @@ This page is to refactor codes from books I read.
 # Head First Design Patterns
 Refactor code in .NET core
 
-## Header 2
-### Header 3
 
