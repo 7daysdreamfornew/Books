@@ -1,4 +1,6 @@
 *.dll
 *.pdb
 *.cache
-Head First Design Patterns/obj
+Head First Design Patterns/obj/Debug
+Head First Design Patterns/bin
+Head First Design Patterns/obj/Debug/netcoreapp1.1/Head First Design Patterns.csproj.CoreCompileInputs.cache
