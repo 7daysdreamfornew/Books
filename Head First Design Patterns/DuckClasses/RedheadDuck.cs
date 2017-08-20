@@ -6,7 +6,7 @@ namespace Head_First_Design_Patterns
     {
         protected override void display()
         {
-            // Looks like a redhead
+            Console.WriteLine("It looks like a redhead");
         }
     }
 }

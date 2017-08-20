@@ -8,10 +8,11 @@ namespace Head_First_Design_Patterns
         protected override void quack()
         {
             // Overriden to Squeak
+            Console.WriteLine("A rubber duck squeak squeak..");
         }
         protected override void display()
         {
-            // Looks like a rubber duck
+            Console.WriteLine("It looks like a rubber duck.");
         }
     }
 }

@@ -1,0 +1,8 @@
+Q. Which of the following are disadvantages of using inheritance to provide Duck behaviour.
+(Choose all that apply)
+A. Code is duplicated across subclasses.
+B. Runtime behaviour changes are difficult.
+C. We can't make ducks dance.
+D. Hard to gain knowledge of all duck behaviours.
+E. Ducks can't fly and quack at the same time.
+F. Changes can unintentionally affect other ducks.

@@ -8,10 +8,11 @@ namespace Head_First_Design_Patterns
     {
         protected override void quack(){
             // override to do nothing
+            Console.WriteLine("Decoy quack quack quack..");
         }
         protected override void display()
         {
-            // Looks like a decoy
+            Console.WriteLine("It looks like a decoy");
         }
     }
 }

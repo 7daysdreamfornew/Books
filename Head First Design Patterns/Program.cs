@@ -7,6 +7,8 @@ namespace Head_First_Design_Patterns
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Duck duck = new Duck();
+            duck.performFly();
         }
     }
 }
